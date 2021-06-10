@@ -3,4 +3,5 @@ Repo für kleine Codeschnipsel
 
 Inhalt:
 
-1. Comming soon...
+1. Python/rolling.py  Laufschrift
+2. tbd
