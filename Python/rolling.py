@@ -1,5 +1,5 @@
-# Laufschrift
-# ###########
+# Laufschrift V2.0
+# ################
 import time
 
 text = "Das ist noch ein anderer Laufschrifttext! "
@@ -10,4 +10,4 @@ while True:
     while i < len(text):
         print('\r' + text[i:] + text[0:i], end='')
         i += 1
-        time.sleep(0.3)
+        time.sleep(0.2)
